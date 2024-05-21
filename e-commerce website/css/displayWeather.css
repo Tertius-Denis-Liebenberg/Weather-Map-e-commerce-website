@@ -1,0 +1,18 @@
+/* Formats the table to display with a border */
+table {
+    width: 100%;
+    height: auto;
+    border: 1px solid black;
+}
+
+/* Formats the table data to display in their own blocks */
+td {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+#svg {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
